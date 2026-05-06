@@ -32,7 +32,7 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 screenshots:
-  - description: "This image shows example of Flutter Toggle Switch."
+  - description: "This image shows example of Flutter Anam Sdk."
     path: screenshots/flutter_anam_sdk_thumbnail.png
 
 flutter:
